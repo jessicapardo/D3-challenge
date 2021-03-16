@@ -29,3 +29,25 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+h1 {
+  color: white;
+  background: rgb(23, 95, 177);
+  font-family: 'Times';
+  font-weight: bold;
+}
+
+.col-md-9 {
+text-align:justify;
+font-family: 'Times';
+}
+
+h2 {
+  color: rgb(23, 95, 177);
+  font-family: 'Times';
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+}
